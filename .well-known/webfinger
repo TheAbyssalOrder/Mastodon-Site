@@ -1,0 +1,10 @@
+{
+  "subject": "acct:fractured_chimera@spartanwynter.com",
+  "links": [
+    {
+      "rel": "self",
+      "type": "application/activity+json",
+      "href": "https://snowlink.tail1777de.ts.net/users/fractured_chimera"
+    }
+  ]
+}
